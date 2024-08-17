@@ -1,11 +1,15 @@
 # LFGuard: A Defense against Label Flipping Attack in Federated Learning for Vehicular Network
 Code for the paper: LFGuard: A Defense against Label Flipping Attack in Federated Learning for Vehicular Network
+
 **Installation**
+
 1. Create a virtualenv (Python 3.7)
 2. Install dependencies inside of virtualenv (pip install -r requirements.pip)
 
 **Instructions for execution**
+
 **Setup**
+
 Before starting the experiments, you have to create the file sheets, logs, confusion_matrix, misclassification
 
 Before you can run any experiments, you must complete some setup:
